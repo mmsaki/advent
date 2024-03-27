@@ -105,7 +105,7 @@ tzdata==2022.7
     # via tzlocal
 tzlocal==4.2
     # via advent-of-code-data
-urllib3==1.26.13
+urllib3==1.26.18
     # via requests
 wheel==0.38.4
     # via pip-tools
