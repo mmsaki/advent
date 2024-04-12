@@ -36,7 +36,7 @@ colorama==0.4.6
     #   sphinx
 docutils==0.19
     # via sphinx
-idna==3.4
+idna==3.7
     # via requests
 imagesize==1.4.1
     # via sphinx
