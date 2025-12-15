@@ -27,7 +27,6 @@ def solution(input):
             start = (start + int(turns)) % 100
         if start == 0:
             count += 1
-        print(start)
 
     return count, None
 
